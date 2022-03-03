@@ -1,0 +1,1 @@
+Soluções dos Exercícios da Primeira Lista.
