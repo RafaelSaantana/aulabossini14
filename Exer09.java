@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ex09 {
+public class Exer09 {
     public static void main(String[] args) {
         //criação de variaveis
         Double salario, reajuste, total;

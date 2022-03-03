@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ex08 {
+public class Exer {
     public static void main(String[] args) {
         //criação de variaveis
         Double eleitores, votosBranc, votosNulos, votosValidos, percentualBranc, percentualNulos, percentualValidos;

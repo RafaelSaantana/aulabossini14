@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ex05 {
+public class Exer05 {
     public static void main(String[] args) {
         //criação de variaveis
         double base, alt, res;

@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ex11 {
+public class Exer11 {
     public static void main(String[] args) {
         //criação de variaveis
         Double vendas, carrosVendidos, salarioFixo, valorPorCarro, total;

@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ex01 {
+public class Exer01 {
     public static void main(String[] args) {
         //criação de variaveis
         double cotDolar, dolar, resReal;
