@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class IdadeDias {
+public class Ex07 {
     public static void main(String[] args) {
         //criação de variaveis
         double idadeAnos, idadeMeses, idadeDias, idadeResult;
@@ -13,7 +13,7 @@ public class IdadeDias {
         idadeResult = (idadeAnos * 365) + (idadeMeses * 30) + idadeDias;
         
         //saida
-        String s = String.format("A idade digitada convertida para dias fica: ", idadeResult);
+        String s = String.format("A idade digitada convertida para dias fica: %.2f", idadeResult);
         JOptionPane.showMessageDialog(null, s);
     }
 }

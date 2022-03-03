@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Idade {
+public class Ex06 {
     public static void main(String[] args) {
         //declaração de variaveis
         double idadeAnos, idadeDias;

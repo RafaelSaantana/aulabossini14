@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Antecessor {
+public class Ex04 {
     public static void main(String[] args) {
         //declaração de variaveis
         double op, res;

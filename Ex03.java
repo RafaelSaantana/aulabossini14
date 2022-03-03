@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Vendas {
+public class Ex03 {
     public static void main(String[] args) {
         //declaração de variaveis
         double numVendas, valorPeca, resVendas, res;

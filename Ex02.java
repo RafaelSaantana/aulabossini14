@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Quadrado {
+public class Ex02 {
     public static void main(String[] args) {
         //declaração de variáveis
         double op1, op2, op3, op4, quad1, quad2, quad3, quad4, res;
